@@ -1,0 +1,9 @@
+baseURL: https://tomasho.com/
+title: 泊まる将棋ファン
+theme: puppet
+params:
+  author: 泊ま将
+  custom_css:
+    - css/custom.css
+  sidebar:
+    bio: 泊まる将棋ファン略して泊ま将
